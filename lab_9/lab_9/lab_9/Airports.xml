@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Airports>
+  <Airport>
+    <name>Minsk</name>
+    <ИмяВПП>ВПП-1</ИмяВПП>
+    <LineLen>1500</LineLen>
+    <LineWid>50</LineWid>
+    <name>Minsk</name>
+    <ИмяВПП>ВПП-2</ИмяВПП>
+    <LineLen>2000</LineLen>
+    <LineWid>40</LineWid>
+    <name>Minsk</name>
+    <ИмяВПП>ВПП-3</ИмяВПП>
+    <LineLen>1980</LineLen>
+    <LineWid>51</LineWid>
+  </Airport>
+  <Airport>
+    <name>Berlin</name>
+    <ИмяВПП>Berlin-FIRST</ИмяВПП>
+    <LineLen>3000</LineLen>
+    <LineWid>70</LineWid>
+    <name>Berlin</name>
+    <ИмяВПП>Reichstag</ИмяВПП>
+    <LineLen>2750</LineLen>
+    <LineWid>63</LineWid>
+  </Airport>
+  <Airport>
+    <name>London</name>
+    <ИмяВПП>BigStan</ИмяВПП>
+    <LineLen>2800</LineLen>
+    <LineWid>42</LineWid>
+    <name>London</name>
+    <ИмяВПП>LOnDon</ИмяВПП>
+    <LineLen>5000</LineLen>
+    <LineWid>67</LineWid>
+  </Airport>
+</Airports>

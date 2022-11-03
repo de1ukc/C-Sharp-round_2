@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Trapp\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Trapp\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="D:\Sharp-Round-2\lab_8\lab_8\lab_8" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Employee.cs" t="Include" />
+      <e p="Employee.dat" t="Include" />
+      <e p="EmployeeComparer.cs" t="Include" />
+      <e p="EmployeeNewDocBOCCOC.dat" t="Include" />
+      <e p="FileService.cs" t="Include" />
+      <e p="IFileService.cs" t="Include" />
+      <e p="lab_8.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp5.0" t="Include">
+            <e p="lab_8.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Start.cs" t="Include" />
+    </e>
+  </component>
+</project>
